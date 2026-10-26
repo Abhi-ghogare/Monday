@@ -4,7 +4,7 @@ public class mo1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("mahadev day");
-	}
+		System.out.println("Code updated on FEATURE branch");
+		}
 
 }
